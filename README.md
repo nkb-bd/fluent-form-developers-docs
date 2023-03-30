@@ -4,11 +4,10 @@
 
 # Fluent Forms Developers Docs
 
-Resources and tutorials for FluentCRM developers.
+Resources and tutorials for Fluent Forms developers.
 
 ## Documentation
 
 Check out our developer resources:
 
-* [FluentCRM Developers](https://developers.fluentcrm.com/)
-* [REST API Docs](https://rest-api.fluentcrm.com/)
+* [FluentCRM Developers](https://developers.fluentforms.com/)
