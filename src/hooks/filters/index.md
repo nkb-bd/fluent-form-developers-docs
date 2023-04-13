@@ -12,8 +12,28 @@ Filter hooks are used to return modified values for certain parameters, based on
 
 ## Available Filter Hooks
 
-### General Filters
+### Submission Filters
 <hr />
 
 !!!include(./src/hooks/filters/_submission_filters.md)!!!
+
+### Form Filters
+<hr />
+
+!!!include(./src/hooks/filters/_form_filters.md)!!!
+
+### Settings Filters
+<hr />
+
+!!!include(./src/hooks/filters/_settings_filters.md)!!!
+
+### Integration Filters
+<hr />
+
+!!!include(./src/hooks/filters/_integration_filters.md)!!!
+
+### Miscellaneous Filters
+<hr />
+
+!!!include(./src/hooks/filters/_miscellaneous_filters.md)!!!
 
