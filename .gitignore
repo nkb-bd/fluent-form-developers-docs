@@ -93,6 +93,9 @@ typings/
 .vuepress/dist
 src/.vuepress/dist
 
+/dist
+dist
+
 # Serverless directories
 .serverless/
 
