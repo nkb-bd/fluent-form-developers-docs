@@ -526,3 +526,25 @@ add_action('fluentform/before_form_screen_wrapper', function($form_id, $route) {
 This hook is located in `fluentform/app/Views/admin/form/form_wrapper.php`.
 
 </explain-block>
+
+<explain-block title="fluentform/after_form_menu">
+
+**Description**
+
+This action fires right after Form Menu Loaded.
+
+**Usage:**
+```php 
+add_action('fluentform/after_form_menu', function() {
+   // Do your stuff
+   
+}, 10, 0);
+```
+
+**Reference**
+
+`do_action('fluentform/after_form_menu');`
+
+This action is located in `fluentform/app/Views/admin/form/form_wrapper.php`
+
+</explain-block>

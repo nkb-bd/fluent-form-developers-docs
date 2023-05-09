@@ -247,6 +247,28 @@ This action is located in `fluentform/app/Views/admin/settings/index.php`
 
 </explain-block>
 
+<explain-block title="fluentform/global_menu">
+
+**Description**
+
+This action fires right after Global Menu Loaded.
+
+**Usage:**
+```php 
+add_action('fluentform/global_menu', function() {
+   // Do your stuff
+   
+}, 10, 0);
+```
+
+**Reference**
+
+`do_action('fluentform/global_menu');`
+
+This action is located in `fluentform/app/Views/admin/settings/index.php`
+
+</explain-block>
+
 
 
 
